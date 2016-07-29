@@ -14,3 +14,7 @@ Input Format:
 Output:
 
 9
+
+### Note
+
+Challenge from World CodeSprint5
